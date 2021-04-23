@@ -10,7 +10,7 @@ sections:
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
-    media_position: bottom
+    media_position: top
     align: center
     padding_top: large
     padding_bottom: small
@@ -26,9 +26,9 @@ sections:
         title: What to Do
         title_align: left
         content: >-
-            Goals take time, hard work, perseverance and commitment to achieve it.
-            With **YourGoal** you can list positive task what helps you to create
-            good habbits.
+          Goals take time, hard work, perseverance and commitment to achieve it.
+          With **YourGoal** you can list positive task what helps you to create
+          good habbits.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
