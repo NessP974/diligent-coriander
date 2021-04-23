@@ -23,18 +23,18 @@ sections:
     title: How it works
     grid_items:
         - type: grid_item
-    title: What to Do
-    title_align: left
-    content: >-
-        Goals take time, hard work, perseverance and commitment to achieve it.
-        With **YourGoal** you can list positive task what helps you to create
-        good habbits.
-    content_align: left
-    image: images/icon-1.svg
-    image_alt: Section item 1 icon
-    image_position: top
-    image_align: left
-    image_has_padding: true
+        title: What to Do
+        title_align: left
+        content: >-
+            Goals take time, hard work, perseverance and commitment to achieve it.
+            With **YourGoal** you can list positive task what helps you to create
+            good habbits.
+        content_align: left
+        image: images/icon-1.svg
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
       - type: grid_item
         title: What to Do
         title_align: left
