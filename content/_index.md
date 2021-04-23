@@ -90,7 +90,7 @@ sections:
     grid_gap_vert: medium
     grid_gap_horiz: medium
     enable_cards: true
-    align: right
+    align: center
     background_color: none
   - type: features_section
     title: Why Choose YourGoal?
