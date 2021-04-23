@@ -19,28 +19,6 @@ sections:
     background_image_opacity: 60
     background_image_size: auto
     background_image_position: center top
-  - type: grid_section
-    title: Featured On
-    grid_items:
-      - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Logo 1
-        image_align: center
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Logo 2
-        image_align: center
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
-    grid_cols: three
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    align: center
-    padding_top: small
-    padding_bottom: medium
-    background_color: none
   - type: features_section
     title: Why Choose YourGoal?
     features:
