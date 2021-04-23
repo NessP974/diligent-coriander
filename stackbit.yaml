@@ -766,7 +766,7 @@ models:
           - two
           - three
           - four
-          
+          -
         default: three
         description: Show the specified number of items in a grid row
       - type: enum
