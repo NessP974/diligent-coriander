@@ -22,7 +22,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-        - type: grid_item
+      - type: grid_item
         title: What to Do
         title_align: left
         content: >-
